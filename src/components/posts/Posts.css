@@ -1,0 +1,10 @@
+.posts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+  margin: 20px;
+}
+
+.data__failed {
+  font-size: 50px;
+}
